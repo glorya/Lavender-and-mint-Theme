@@ -1,0 +1,23 @@
+{
+	"name": "Lavender and mint",
+	"displayName": "Lavender and mint",
+	"description": "Lavender and mint Theme",
+	"version": "0.0.3",
+	"publisher": "glorya",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lavender and minth",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Lavender-and-mint.tmTheme"
+			}
+		]
+	}
+}
